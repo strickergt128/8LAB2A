@@ -69,3 +69,14 @@ body {
 iframe {
 	width: 100% !important;
 }
+.botonsnd {
+	width: 120px;
+	height: 30px;
+	background-color: #00BFD3;
+	margin: 0 auto;
+	color: white;
+	border-radius: 2px;
+}
+.texts {
+	padding-top: 7%;
+}
